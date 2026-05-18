@@ -12,7 +12,6 @@ public class Main {
                 letter.push(word.charAt(i));
             }
         }
-
         StringBuilder sb = new StringBuilder();
 
         for (int i = 0; i < word.length(); i++) {
